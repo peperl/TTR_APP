@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_disabled"
+    >
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="318dp"
+        android:layout_height="148dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:src="@drawable/logobig" />
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="206dp"
+        android:ems="10"
+        android:hint="Correo"
+        android:inputType="textPersonName"
+        android:drawableLeft="@drawable/ic_action_email"
+        />
+
+    <EditText
+        android:id="@+id/editText8"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:layout_marginTop="260dp"
+        android:inputType="textPassword"
+        android:hint="Contraseña"
+        android:drawableLeft="@drawable/ic_action_mail"
+        />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="320dp"
+        android:onClick="login"
+
+        android:text="Inicar Sesión" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="370dp"
+        android:onClick="escanerQR"
+        android:text="Emparejamiento" />
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.j256.simplecsv:simplecsv:2.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.j256.simplecsv/simplecsv/2.3/805d1bcf8387e093cd2b74487d5171fdefdf9725/simplecsv-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.j256.simplecsv/simplecsv/2.3/6e4354d821359750bd2c9852ca893f88e7e51777/simplecsv-2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

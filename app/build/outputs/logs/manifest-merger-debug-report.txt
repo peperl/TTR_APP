@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+permission#com.health.openscale.READ_DATA
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:18:5-22:47
+	android:label
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:21:9-59
+	android:protectionLevel
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:22:9-44
+	android:description
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:20:9-71
+	android:name
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:19:9-50
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:69:9-77:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:72:13-47
+	android:authorities
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:71:13-64
+	android:exported
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:70:13-67
+provider#com.health.openscale.core.database.ScaleDatabaseProvider
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:78:9-84:20
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:78:9-84:20
+	android:readPermission
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:83:13-64
+	android:enabled
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:81:13-35
+	android:authorities
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:80:13-60
+	android:exported
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:82:13-36
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:79:13-64
+manifest
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\c3f78a602764e4defd6a17d1f7eb44c2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72546c32820ee9c81c579e6581dbd614\AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\60beda7cfdec55d9a58f027183fdb972\AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\836f170333c0ac0117ef2d97dcd84423\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6d5edf0bbcc49bdf43e99c5714ddaa96\AndroidManifest.xml:17:1-22:12
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\189270386022840f6762946cb41c37db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\dfaa0d8dce35e4f85a7e6bac86460a2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\10b06af20a98f79609a2bb5889fe896e\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ac6ec09bbc34b90b39b6290f3297377a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\edea2a33483966a9adaf2f565a7465b4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7cdef878c27cc02765671e2ba163948a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7258f72e29ef703f90599868f85f2bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81a4f68e8378cfb4325d8d108828c497\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6292db179a78c755b46bae1e8a34e704\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\94e3a8f57a8dacc540e9f460d0865459\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\957a3d7d985fb57c574c4475d62be35e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b09971fa1ed388f53916e15cdc52886\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5bbd7b56cb65d087768de1b73ca85c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1af79e257c613d19cbfa856a258667ea\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\87db197e022947e11f9f30006c56c918\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa3c3529e6c72d66c08acb434b79e27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32961a8dcbb9bde057b4ec90c4d7dfeb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ad9d129f04fa1aa2fa0e9fa3d1a66217\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dc3ec857a37c2fc5c531b3d914dda93e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:13:22-64
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:24:5-90
+	android:required
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:24:64-88
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:24:19-63
+application
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:26:5-85:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\60beda7cfdec55d9a58f027183fdb972\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\60beda7cfdec55d9a58f027183fdb972\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\836f170333c0ac0117ef2d97dcd84423\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\836f170333c0ac0117ef2d97dcd84423\AndroidManifest.xml:11:5-20
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:11:5-21:19
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:11:5-21:19
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\edea2a33483966a9adaf2f565a7465b4\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\edea2a33483966a9adaf2f565a7465b4\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:28:9-55
+	android:allowBackup
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:31:9-46
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:30:9-41
+activity#com.health.openscale.gui.MainActivity
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:33:13-45
+activity#com.health.openscale.gui.activities.SettingsActivity
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:36:19-66
+activity#com.health.openscale.gui.activities.DataEntryActivity
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:37:19-67
+activity#com.health.openscale.gui.activities.UserSettingsActivity
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:38:9-72
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:38:19-70
+activity#com.health.openscale.gui.fragments.Inicio
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:39:9-46:20
+	android:label
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:39:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.health.openscale.gui.fragments.newPass
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:47:9-58
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:47:19-56
+receiver#com.health.openscale.core.alarm.ReminderBootReceiver
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:enabled
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:49:67-90
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:49:19-66
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:50:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:51:17-78
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:51:25-76
+receiver#com.health.openscale.gui.widget.WidgetProvider
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:55:9-61:20
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:55:19-60
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:56:13-58:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:57:17-84
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:57:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:59:13-60:55
+	android:resource
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:60:17-52
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:59:24-65
+activity#com.health.openscale.gui.widget.WidgetConfigure
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:63:19-61
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:64:13-66:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:65:17-86
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:65:25-84
+uses-sdk
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\c3f78a602764e4defd6a17d1f7eb44c2\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\c3f78a602764e4defd6a17d1f7eb44c2\AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72546c32820ee9c81c579e6581dbd614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\72546c32820ee9c81c579e6581dbd614\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\60beda7cfdec55d9a58f027183fdb972\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\zxing-1.9.aar\60beda7cfdec55d9a58f027183fdb972\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\836f170333c0ac0117ef2d97dcd84423\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\core-1.9.aar\836f170333c0ac0117ef2d97dcd84423\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6d5edf0bbcc49bdf43e99c5714ddaa96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6d5edf0bbcc49bdf43e99c5714ddaa96\AndroidManifest.xml:20:5-44
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:7:5-9:41
+MERGED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\189270386022840f6762946cb41c37db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\189270386022840f6762946cb41c37db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\dfaa0d8dce35e4f85a7e6bac86460a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\dfaa0d8dce35e4f85a7e6bac86460a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\10b06af20a98f79609a2bb5889fe896e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lecho:hellocharts-library:1.5.8] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\hellocharts-library-1.5.8.aar\10b06af20a98f79609a2bb5889fe896e\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ac6ec09bbc34b90b39b6290f3297377a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ac6ec09bbc34b90b39b6290f3297377a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\edea2a33483966a9adaf2f565a7465b4\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\timber-4.7.0.aar\edea2a33483966a9adaf2f565a7465b4\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7cdef878c27cc02765671e2ba163948a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7cdef878c27cc02765671e2ba163948a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7258f72e29ef703f90599868f85f2bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7258f72e29ef703f90599868f85f2bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81a4f68e8378cfb4325d8d108828c497\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\81a4f68e8378cfb4325d8d108828c497\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6292db179a78c755b46bae1e8a34e704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6292db179a78c755b46bae1e8a34e704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\94e3a8f57a8dacc540e9f460d0865459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\94e3a8f57a8dacc540e9f460d0865459\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\957a3d7d985fb57c574c4475d62be35e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\957a3d7d985fb57c574c4475d62be35e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b09971fa1ed388f53916e15cdc52886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\7b09971fa1ed388f53916e15cdc52886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5bbd7b56cb65d087768de1b73ca85c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5bbd7b56cb65d087768de1b73ca85c0a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1af79e257c613d19cbfa856a258667ea\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-framework-1.0.0.aar\1af79e257c613d19cbfa856a258667ea\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\87db197e022947e11f9f30006c56c918\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\db-1.0.0.aar\87db197e022947e11f9f30006c56c918\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa3c3529e6c72d66c08acb434b79e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7aa3c3529e6c72d66c08acb434b79e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32961a8dcbb9bde057b4ec90c4d7dfeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32961a8dcbb9bde057b4ec90c4d7dfeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ad9d129f04fa1aa2fa0e9fa3d1a66217\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ad9d129f04fa1aa2fa0e9fa3d1a66217\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dc3ec857a37c2fc5c531b3d914dda93e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dc3ec857a37c2fc5c531b3d914dda93e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:74:13-76:63
+	android:resource
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:76:17-60
+	android:name
+		ADDED from C:\Users\Jose\Desktop\openScale-master\openScale-master\android_app\app\src\main\AndroidManifest.xml:75:17-67
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:12:9-14:49
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:14:13-46
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:13:13-89
+provider#cat.ereza.customactivityoncrash.provider.CaocInitProvider
+ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:16:9-20:39
+	android:authorities
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:18:13-85
+	android:exported
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:19:13-37
+	android:initOrder
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.2.0] C:\Users\Jose\.gradle\caches\transforms-1\files-1.1\customactivityoncrash-2.2.0.aar\71527b9533fc910df6fe3d851b1f701f\AndroidManifest.xml:17:13-85
